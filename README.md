@@ -1,7 +1,13 @@
 # Full-Stack Developer | Student @GeneralAssembly
 
-![Yoel's github stats](https://github-readme-stats.vercel.app/api?username=yoel0&theme=vue&show_icons=true)
+[![Yoel's github stats](https://github-readme-stats.vercel.app/api?username=yoel0&theme=vue&show_icons=true)] (https://github.com/yoel0)
 
+Hello! I am Yoel Morad, a passionate student of all things frontEnd and backEnd from Los Angeles, California.
+
+- 🔭 I’m currently working on my project [EVOBeast](https://github.com/yoel0/Project-One-EVOBeast)
+- 🌱 I’m currently learning React & Typescript
+- 👯 I’m looking to collaborate on [EVOBeast](https://github.com/yoel0/Project-One-EVOBeast)
+- 💬 Ask me about anything [here](https://github.com/yoel0/yoel0/issues)
 <!--
 **yoel0/yoel0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
