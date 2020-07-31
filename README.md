@@ -1,6 +1,6 @@
 # Full-Stack Developer | Student @GeneralAssembly
 
-[![Yoel's github stats](https://github-readme-stats.vercel.app/api?username=yoel0&theme=vue&show_icons=true)] (https://github.com/yoel0)
+![Yoel's github stats](https://github-readme-stats.vercel.app/api?username=yoel0&theme=vue&show_icons=true)
 
 Hello! I am Yoel Morad, a passionate student of all things frontEnd and backEnd from Los Angeles, California.
 
