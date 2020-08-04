@@ -1,4 +1,4 @@
-# Full-Stack Developer | Student @GeneralAssembly
+# Full-Stack Developer | Problem Solver
 
 ![Yoel's github stats](https://github-readme-stats.vercel.app/api?username=yoel0&theme=vue&show_icons=true)
 
