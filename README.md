@@ -4,9 +4,10 @@
 
 Hello! I am Yoel Morad, a passionate student of all things frontEnd and backEnd from Los Angeles, California.
 
-- 🔭 I’m currently working on my project [EVOBeast](https://github.com/yoel0/Project-One-EVOBeast)
+- 🔭 I’m currently working on a new app called INKY HEAVEN.
 - 🌱 I never stop learning, because life never stops teaching.
-- 👯 I’m looking to collaborate on [EVOBeast](https://github.com/yoel0/Project-One-EVOBeast)
+- 👯 I’m looking to collaborate with other developers.
+- 🥅 2020 Goals: Contribute more to Open Source projects.
 - 💬 Ask me about anything [here](https://github.com/yoel0/yoel0/issues)
 - 🤝 Connect with me on [linkedin](https://www.linkedin.com/in/yoelmorad/)
 
@@ -20,6 +21,11 @@ Hello! I am Yoel Morad, a passionate student of all things frontEnd and backEnd 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/sql/sql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/linkedin/linkedin.png"></code>
 
 
 
