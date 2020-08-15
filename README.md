@@ -1,4 +1,5 @@
-# Full-Stack Developer | Problem Solver
+# Full-Stack Developer
+## Problem Solver | Team Player | Love to Learn
 
 ![Yoel's github stats](https://github-readme-stats.vercel.app/api?username=yoel0&theme=vue&show_icons=true)
 
