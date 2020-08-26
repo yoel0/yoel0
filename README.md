@@ -47,7 +47,7 @@ Hello! I am Yoel Morad, a passionate student of all things frontEnd and backEnd 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![](https://komarev.com/ghpvc/?username=yoel0&color=brightgreen)
+![visitors](https://komarev.com/ghpvc/?username=yoel0&color=brightgreen)
 
 <!--
 **yoel0/yoel0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
