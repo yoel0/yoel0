@@ -1,17 +1,35 @@
-# Full-Stack Developer Problem Solver | Team Player | Love to Learn
+# Full-Stack Developer 
+Problem Solver | Team Player | Love to Learn
 
 #### &#x1f4c8; GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=yoel0&theme=vue&show_icons=true&hide_title=true&hide_border=true&hide=contribs,issues" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoel0&layout=compact&theme=vue&hide_title=true&hide_border=true&hide=contribs,issues">
 
 Hello! I am Yoel Morad, a passionate student of all things frontEnd and backEnd from Los Angeles, California.
-
-- 🔭 I’m currently working on a new app called INKY HEAVEN.
-- 🌱 I never stop learning, because life never stops teaching.
-- 👯 I’m looking to collaborate with other developers.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
-- 💬 Ask me about anything [here](https://github.com/yoel0/yoel0/issues)
-- 🤝 Connect with me on [![Linkedin Badge](https://img.shields.io/badge/-yoelmorad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoelmorad/)](https://www.linkedin.com/in/yoelmorad/)
+[![Linkedin Badge](https://img.shields.io/badge/-yoelmorad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoelmorad/)](https://www.linkedin.com/in/yoelmorad/)
 [![Gmail Badge](https://img.shields.io/badge/-yoelgabriel.m@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoelgabriel.m@gmail.com)](mailto:yoelgabriel.m@gmail.com)
+
+## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Yoel Morad'
+	current_edu = "GA, General Assembly"
+	hobbies = [
+				'Javascript Pondering',
+				'Meditating on Immutability',
+				'Reading Wuxia Novels'
+				'Being up all Night devouring that ONE BUG...'
+			]
+	
+	def getCity():
+		return LosAngeles_California()
+	
+	def Ambitions():
+		LearnChinese()
+		CreateForThePeople()
+		EatKBBQForever()
+		# Assume 2 more awesome ambitions here <3
+	
+ ```
 
 **Languages & Tools I L💚VE**  
 
