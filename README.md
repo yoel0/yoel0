@@ -2,7 +2,7 @@
 ## Problem Solver | Team Player | Love to Learn
 
 ![Yoel's github stats](https://github-readme-stats.vercel.app/api?username=yoel0&theme=vue&show_icons=true)
-![](https://komarev.com/ghpvc/?yoel0=your-github-username&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=yoel0&color=brightgreen)
 
 Hello! I am Yoel Morad, a passionate student of all things frontEnd and backEnd from Los Angeles, California.
 
