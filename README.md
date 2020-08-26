@@ -1,7 +1,7 @@
 # Full-Stack Developer
 ## Problem Solver | Team Player | Love to Learn
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=yoel0&theme=vue&show_icons=true&line_height=27">
+<img src="https://github-readme-stats.vercel.app/api?username=yoel0&theme=vue&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoel0&layout=compact&theme=vue&line_height=27">
 </p>
 
