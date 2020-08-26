@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yoel0&theme=vue&show_icons=true" width="400" height="500">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoel0&layout=compact&theme=vue" width="400" height="500">
-
+</p>
 
 Hello! I am Yoel Morad, a passionate student of all things frontEnd and backEnd from Los Angeles, California.
 
@@ -28,7 +28,7 @@ Hello! I am Yoel Morad, a passionate student of all things frontEnd and backEnd 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/git/git.png"></code>
-</p>
+
 ![](https://komarev.com/ghpvc/?username=yoel0&color=brightgreen)
 
 
