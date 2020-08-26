@@ -6,7 +6,7 @@ Problem Solver | Team Player | Love to Learn
 
 <img src="https://raw.githubusercontent.com/yoel0/yoel0/master/wave.gif" width="30px"> My name is Yoel Morad, a passionate student of all things frontEnd and backEnd from Los Angeles, California.
 
-[![Linkedin Badge](https://img.shields.io/badge/-yoelmorad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoelmorad/&target=_blank)](https://www.linkedin.com/in/yoelmorad/)
+[![Linkedin Badge](https://img.shields.io/badge/-yoelmorad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoelmorad/)](https://www.linkedin.com/in/yoelmorad/)
 [![Gmail Badge](https://img.shields.io/badge/-yoelgabriel.m@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoelgabriel.m@gmail.com)](mailto:yoelgabriel.m@gmail.com) [![GitHub Yoel](https://img.shields.io/github/followers/yoel0?label=follow&style=social)](https://github.com/yoel0)
 ## Who am I?
  ```python
