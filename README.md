@@ -3,8 +3,6 @@
 
 ![Yoel's github stats](https://github-readme-stats.vercel.app/api?username=yoel0&theme=vue&show_icons=true)
 
-![](https://komarev.com/ghpvc/?username=yoel0&color=brightgreen)
-
 Hello! I am Yoel Morad, a passionate student of all things frontEnd and backEnd from Los Angeles, California.
 
 - 🔭 I’m currently working on a new app called INKY HEAVEN.
@@ -29,8 +27,7 @@ Hello! I am Yoel Morad, a passionate student of all things frontEnd and backEnd 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/git/git.png"></code>
 
-
-
+![](https://komarev.com/ghpvc/?username=yoel0&color=brightgreen)
 
 
 
