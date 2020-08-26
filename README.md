@@ -10,7 +10,7 @@ Hello! I am Yoel Morad, a passionate student of all things frontEnd and backEnd 
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 - 💬 Ask me about anything [here](https://github.com/yoel0/yoel0/issues)
-- 🤝 Connect with me on [linkedin](https://www.linkedin.com/in/yoelmorad/)
+- 🤝 Connect with me on [![Linkedin Badge](https://img.shields.io/badge/-yoelmorad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoelmorad/)](https://www.linkedin.com/in/yoelmorad/)
 
 **Languages & Tools I L💚VE**  
 
