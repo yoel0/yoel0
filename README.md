@@ -4,7 +4,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=yoel0&theme=vue&show_icons=true" width="400" height="500">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoel0&layout=compact&theme=vue" width="400" height="500">
 </p>
-
 Hello! I am Yoel Morad, a passionate student of all things frontEnd and backEnd from Los Angeles, California.
 
 - 🔭 I’m currently working on a new app called INKY HEAVEN.
