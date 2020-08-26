@@ -1,9 +1,9 @@
 # Full-Stack Developer
 ## Problem Solver | Team Player | Love to Learn
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yoel0&theme=vue&show_icons=true">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoel0&layout=compact&theme=vue">
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yoel0&theme=vue&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoel0&layout=compact&theme=vue">
+</p>
 
 Hello! I am Yoel Morad, a passionate student of all things frontEnd and backEnd from Los Angeles, California.
 
