@@ -17,7 +17,7 @@ Problem Solver | Team Player | Love to Learn
 				'Javascript Pondering',
 				'Meditating on Immutability',
 				'Reading Wuxia Novels'
-				'Being up all Night devouring that ONE BUG...'
+				'Pushing to github at 4AM...'
 			]
 	
 	def getCity():
