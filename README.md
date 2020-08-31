@@ -34,7 +34,7 @@ Problem Solver | Team Player | Love to Learn
 **Languages & Tools I L💚VE**  
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![<%EJS%>](https://img.shields.io/badge/-EJS-black?style=flat-square&logo=ejs)
+![EJS](https://img.shields.io/badge/-<%EJS%>-black?style=flat-square&logo=ejs)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
