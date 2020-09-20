@@ -3,8 +3,9 @@ Problem Solver | Team Player | Love to Learn
 
 #### &#x1f4c8; GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=yoel0&theme=vue&show_icons=true&hide_title=true&hide_border=true&hide=stars,issues,contribs" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoel0&layout=compact&theme=vue&hide_title=true&hide_border=true" >
-
-![trophy](https://github-profile-trophy.vercel.app/?username=yoel0&title=Repositories,Commit,PullRequest,Followers,Joined2020,MultiLanguage)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=yoel0&title=Repositories,Commit,PullRequest,Followers,Joined2020,MultiLanguage" >
+<p>
 
 <img src="https://raw.githubusercontent.com/yoel0/yoel0/master/wave.gif" width="30px"> My name is Yoel Morad, a passionate student of all things frontEnd and backEnd from Los Angeles, California.
 
