@@ -13,14 +13,15 @@ Problem Solver | Team Player | Love to Learn
 ## Who am I?
 
  ```python
- class WhoAmI:
- 	user = 'Yoel Morad'
-	current_edu = "GA, General Assembly"
-	hobbies = [
-		'Javascript Pondering',
-		'Meditating on Immutability',
-		'Reading Wuxia Novels'
-		'Pushing to github at 4AM...']
+
+class WhoAmI:
+user = 'Yoel Morad'
+current_edu = "GA, General Assembly"
+hobbies = [
+	'Javascript Pondering',
+	'Meditating on Immutability',
+	'Reading Wuxia Novels'
+	'Pushing to github at 4AM...']
 	
 	def getCity():
 		return LosAngeles_California()
