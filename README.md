@@ -11,16 +11,16 @@ Problem Solver | Team Player | Love to Learn
 [![Linkedin Badge](https://img.shields.io/badge/-yoelmorad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoelmorad/)](https://www.linkedin.com/in/yoelmorad/)
 [![Gmail Badge](https://img.shields.io/badge/-yoelgabriel.m@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoelgabriel.m@gmail.com)](mailto:yoelgabriel.m@gmail.com) [![GitHub Yoel](https://img.shields.io/github/followers/yoel0?label=follow&style=social)](https://github.com/yoel0)
 ## Who am I?
+
  ```python
  class WhoAmI:
  	user = 'Yoel Morad'
 	current_edu = "GA, General Assembly"
 	hobbies = [
-				'Javascript Pondering',
-				'Meditating on Immutability',
-				'Reading Wuxia Novels'
-				'Pushing to github at 4AM...'
-			]
+		'Javascript Pondering',
+		'Meditating on Immutability',
+		'Reading Wuxia Novels'
+		'Pushing to github at 4AM...']
 	
 	def getCity():
 		return LosAngeles_California()
