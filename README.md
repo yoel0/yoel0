@@ -20,14 +20,15 @@ current_edu = "GA, General Assembly"
 hobbies = [
 	'Javascript Pondering',
 	'Meditating on Immutability',
-	'Reading Wuxia Novels'
+	'Reading Wuxia Novels',
+	'<canvas /> Crawling',
 	'Pushing to github at 4AM...']
 	
 	def getCity():
 		return LosAngeles_California()
 	
 	def Ambitions():
-		LearnChinese()
+		LearnEveryday()
 		CreateForThePeople()
 		EatKBBQForever()
 		# Assume 2 more awesome ambitions here <3
