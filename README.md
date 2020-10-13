@@ -19,7 +19,7 @@ user = 'Yoel Morad'
 current_edu = "GA, General Assembly"
 hobbies = [
 	'Javascript Pondering',
-	'Meditating on Immutability',
+	'Absorbing Docs',
 	'Reading Wuxia Novels',
 	'<canvas /> Crawling',
 	'Pushing to github at 4AM...']
