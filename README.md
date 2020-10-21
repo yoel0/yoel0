@@ -22,7 +22,7 @@ hobbies = [
 	'Absorbing Docs',
 	'Reading Wuxia Novels',
 	'<canvas /> Crawling',
-	'Playing with ThreeJS..']
+	'Swimming with ThreeJS..']
 	
 	def getCity():
 		return LosAngeles_California()
