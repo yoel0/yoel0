@@ -8,8 +8,8 @@ Problem Solver | Team Player | Love to Learn
 
 <img src="https://raw.githubusercontent.com/yoel0/yoel0/master/wave.gif" width="30px"> My name is Yoel Morad, a passionate student of all things frontEnd and backEnd from Los Angeles, California.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Connect with me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoelmorad/)](https://www.linkedin.com/in/yoelmorad/)
-[![Gmail Badge](https://img.shields.io/badge/-Email me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoelgabriel.m@gmail.com)](mailto:yoelgabriel.m@gmail.com) [![GitHub Yoel](https://img.shields.io/github/followers/yoel0?label=follow&style=social)](https://github.com/yoel0)
+[![Linkedin Badge](https://img.shields.io/badge/-Connect%20with%20me-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yoelmorad/ "Connect on LinkedIn")
+[![Gmail Badge](https://img.shields.io/badge/-eMail%20me-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yoelgabriel.m@gmail.com "Connect via Email")
 ## Who am I?
 
  ```python
