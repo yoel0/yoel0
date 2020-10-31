@@ -7,34 +7,12 @@ Problem Solver | Team Player | Love to Learn
 <img src="https://github-profile-trophy.vercel.app/?username=yoel0&title=Repositories,Commit,PullRequest,Followers,Joined2020,MultiLanguage" >
 
 <img src="https://raw.githubusercontent.com/yoel0/yoel0/master/wave.gif" width="30px"> My name is Yoel Morad, a passionate student of all things frontEnd and backEnd from Los Angeles, California.
+<p align="center">
+<a href="https://www.linkedin.com/in/yoelmorad/" target="_blank"><img src="https://img.shields.io/badge/-0072b1?style=plastic&logo=Linkedin&logoColor=white" align="center" /></a>
+<a href="mailto:yoelgabriel.m@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-c14438?style=plastic&logo=Gmail&logoColor=white" align="center" /></a>
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Connect%20with%20me-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yoelmorad/ "Connect on LinkedIn")
-[![Gmail Badge](https://img.shields.io/badge/-eMail%20me-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yoelgabriel.m@gmail.com "Connect via Email")
-## Who am I?
-
- ```python
-
-class WhoAmI:
-user = 'Yoel Morad'
-current_edu = "GA, General Assembly"
-hobbies = [
-	'Javascript Pondering',
-	'Absorbing Docs',
-	'Reading Wuxia Novels',
-	'<canvas /> Crawling',
-	'Swimming with ThreeJS..']
-	
-	def getCity():
-		return LosAngeles_California()
-	
-	def Ambitions():
-		LearnEveryday()
-		CreateForThePeople()
-		EatKBBQForever()
-		# Assume 2 more awesome ambitions here <3
-	
- ```
-
+There is no place like 127.0.0.1
 **Languages & Tools I L💚VE**  
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
