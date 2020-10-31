@@ -4,7 +4,6 @@ Problem Solver | Team Player | Love to Learn
 #### &#x1f4c8; GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=yoel0&count_private=true&theme=vue&show_icons=true&hide_title=true&hide_border=true&hide=stars,issues" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoel0&langs_count=10&layout=compact&theme=vue&hide_title=true&hide_border=true&hide=html" >
 
-<img src="https://github-profile-trophy.vercel.app/?username=yoel0&title=Repositories,Commit,PullRequest,Followers,Joined2020,MultiLanguage" >
 <p align="center">
 <img src="https://raw.githubusercontent.com/yoel0/yoel0/master/wave.gif" width="30px"> My name is Yoel Morad, a passionate student of all things frontEnd and backEnd from Los Angeles, California.
 </p>
@@ -45,6 +44,9 @@ There is no place like 127.0.0.1
 </details>
 									 
 ![visitors](https://komarev.com/ghpvc/?username=yoel0&color=brightgreen)
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=yoel0&title=Joined2020" />
 
 <!--
 **yoel0/yoel0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
