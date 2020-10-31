@@ -58,8 +58,11 @@ hobbies = [
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)   
-
+![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code) 
+<details><summary>Joke of the Day [clickme]</summary>
+<img src="https://readme-jokes.vercel.app/api?theme=vue& alt="Jokes Card" />
+</details>
+									 
 ![visitors](https://komarev.com/ghpvc/?username=yoel0&color=brightgreen)
 
 <!--
