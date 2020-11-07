@@ -18,7 +18,7 @@ Problem Solver | Team Player | Love to Learn
 <img src="koi.gif" height="300px" />
 </p>
 
-<h4 align="center">My Stack</h4>
+<h4 align="center">𝔪𝔶【𝕤𝕥𝕒𝕔𝕜】</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript" />
 <img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb" />
