@@ -5,7 +5,7 @@ Problem Solver | Team Player | Love to Learn
 <img src="https://github-readme-stats.vercel.app/api?username=yoel0&count_private=true&include_all_commits=true&theme=graywhite&show_icons=true&hide_title=true&hide_border=true&hide=stars,issues" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoel0&langs_count=10&layout=compact&theme=vue&hide_title=true&hide_border=true&hide=html" />
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/yoel0/yoel0/master/wave.gif" width="30px" /> My name is Yoel Morad, a passionate student of all things frontEnd and backEnd from Los Angeles, California.
+<img src="/secretStuff/wave.gif" width="30px" /> My name is Yoel Morad, a passionate student of all things frontEnd and backEnd from Los Angeles, California.
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/yoelmorad/" target="_blank"><img src="https://img.shields.io/badge/-0072b1?style=plastic&logo=Linkedin&logoColor=white" align="center" /></a>
@@ -15,7 +15,7 @@ Problem Solver | Team Player | Love to Learn
 𝚃𝚑𝚎𝚛𝚎 𝚒𝚜 𝚗𝚘 𝚙𝚕𝚊𝚌𝚎 𝚕𝚒𝚔𝚎 𝟷𝟸𝟽.𝟶.𝟶.𝟷
 </p>
 <p align="center">
-<img src="koi.gif" height="300px" />
+<img src="/secretStuff/koi.gif" height="300px" />
 </p>
 
 <h4 align="center">𝔪𝔶【𝕤𝕥𝕒𝕔𝕜】</h4>
