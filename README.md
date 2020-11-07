@@ -20,26 +20,26 @@ Problem Solver | Team Player | Love to Learn
 
 <h4 align="center">My Stack</h4>
 <p align="center">
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
-<img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express" />
-<img src="https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react" />
-<img src="https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js" />
-<img src="https://img.shields.io/badge/-Python3-black?style=flat-square&logo=Python" />
-<img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&logoColor=006400" />
+<img src="https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript" />
+<img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb" />
+<img src="https://img.shields.io/badge/-Express-white?style=flat-square&logo=express" />
+<img src="https://img.shields.io/badge/-ReactJS-white?style=flat-square&logo=react" />
+<img src="https://img.shields.io/badge/-NodeJS-white?style=flat-square&logo=Node.js" />
+<img src="https://img.shields.io/badge/-Python3-white?style=flat-square&logo=Python" />
+<img src="https://img.shields.io/badge/-Django-white?style=flat-square&logo=django&logoColor=006400" />
 <br />
-<img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=336791" />
-<img src="https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql&logoColor=E10098" />
-<img src="https://img.shields.io/badge/-Apollo%20GraphQL-black?style=flat-square&logo=apollo-graphql&logoColor=311C87" />
-<img src="https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter" />
-<img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman&logoColor=FF6C37" />
+<img src="https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql&logoColor=336791" />
+<img src="https://img.shields.io/badge/-GraphQL-white?style=flat-square&logo=graphql&logoColor=E10098" />
+<img src="https://img.shields.io/badge/-Apollo%20GraphQL-white?style=flat-square&logo=apollo-graphql&logoColor=311C87" />
+<img src="https://img.shields.io/badge/-Jupyter-white?style=flat-square&logo=jupyter" />
+<img src="https://img.shields.io/badge/-Postman-white?style=flat-square&logo=postman&logoColor=FF6C37" />
 <br />
-<img src="https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui&logoColor=0081CB" />
-<img src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass&logoColor=CC6699" />
-<img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=563D7C" />
-<img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+<img src="https://img.shields.io/badge/-Material_UI-white?style=flat-square&logo=material-ui&logoColor=0081CB" />
+<img src="https://img.shields.io/badge/-Sass-white?style=flat-square&logo=sass&logoColor=CC6699" />
+<img src="https://img.shields.io/badge/-Bootstrap-white?style=flat-square&logo=bootstrap&logoColor=563D7C" />
+<img src="https://img.shields.io/badge/-CSS3-white?style=flat-square&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/-HTML5-white?style=flat-square&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/-Git-white?style=flat-square&logo=git" />
 <img src="https://img.shields.io/badge/-GitHub-white?style=flat-square&logo=github&logoColor=181717" />
 </p>
 
