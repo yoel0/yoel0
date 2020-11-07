@@ -43,13 +43,14 @@ Problem Solver | Team Player | Love to Learn
 <img src="https://img.shields.io/badge/-GitHub-white?style=flat-square&logo=github&logoColor=181717" />
 </p>
 
-
+<p align="center">
 <details>
 <summary>Joke of the Day</summary>
-<img src="https://readme-jokes.vercel.app/api?theme=daySky" />
+<img src="https://readme-jokes.vercel.app/api?theme=graywhite" />
 </details>
  
-![visitors](https://komarev.com/ghpvc/?username=yoel0&color=lightgray)
+<img src="https://komarev.com/ghpvc/?username=yoel0&color=lightgray" />
+</p>
 <br>
 <br>
 <br>
