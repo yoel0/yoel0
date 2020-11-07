@@ -46,7 +46,7 @@ Problem Solver | Team Player | Love to Learn
 
 <details>
 <summary>Joke of the Day</summary>
-<img src="https://readme-jokes.vercel.app/api?theme=vue" />
+<img src="https://readme-jokes.vercel.app/api?theme=daySky" />
 </details>
  
 ![visitors](https://komarev.com/ghpvc/?username=yoel0&color=lightgray)
