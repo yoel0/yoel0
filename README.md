@@ -42,7 +42,8 @@ Problem Solver | Team Player | Love to Learn
 <img src="https://img.shields.io/badge/-HTML5-white?style=flat-square&logo=html5&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/-Git-white?style=flat-square&logo=git" />
 <img src="https://img.shields.io/badge/-GitHub-white?style=flat-square&logo=github&logoColor=181717" />
- <img src="https://img.shields.io/badge/-VSCode-white?style=flat-square&logo=visual-studio-code&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/-VSCode-white?style=flat-square&logo=visual-studio-code&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/-NPM-white?style=flat-square&logo=npm&logoColor=CB3837" />
 </p>
 
 
