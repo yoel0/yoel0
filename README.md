@@ -31,6 +31,7 @@ Problem Solver | Team Player | Love to Learn
 <img src="https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql&logoColor=336791" />
 <img src="https://img.shields.io/badge/-GraphQL-white?style=flat-square&logo=graphql&logoColor=E10098" />
 <img src="https://img.shields.io/badge/-Apollo%20GraphQL-white?style=flat-square&logo=apollo-graphql&logoColor=311C87" />
+ <img src="https://img.shields.io/badge/-Redux-white?style=flat-square&logo=redux&logoColor=764ABC" />
 <img src="https://img.shields.io/badge/-Jupyter-white?style=flat-square&logo=jupyter" />
 <img src="https://img.shields.io/badge/-Postman-white?style=flat-square&logo=postman&logoColor=FF6C37" />
 <br />
