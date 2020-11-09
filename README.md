@@ -21,6 +21,7 @@ Problem Solver | Team Player | Love to Learn
 <h4 align="center">𝔪𝔶【𝕤𝕥𝕒𝕔𝕜】</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript" />
+<img src="https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript" />
 <img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb" />
 <img src="https://img.shields.io/badge/-Express-white?style=flat-square&logo=express" />
 <img src="https://img.shields.io/badge/-ReactJS-white?style=flat-square&logo=react" />
