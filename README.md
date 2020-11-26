@@ -63,7 +63,7 @@ Problem Solver | Team Player | Love to Learn
 2̶̧̨̛͋͋0̵̨̳̯͖̺͎̟́̀͗̓̋̇̕͜͜͝2̵̙̜̘͇̩͕̤̭̖͎̌0̴͍̰̺̦͍̱̭̗̎̉͘̕ͅ ̷̢̞̖͖̻̞̦͕́Ȉ̶̯̱͚̑́T̷͕̜̳̠͛̓ ̵̙̖͚͓͔̰̖͇̙̒̔̈̏̓̽͜͠͝B̶̬̓͗̅͗͠Ȩ̴̙̮̦̖̭̟̱̒͛̕G̷̼̳̰̱̮̜͂̀͆͝͝ͅͅA̶̛̠̫͇͇̲̓̍̂͗̉N̴̫̹͈̑̅͛͐̐̐͐̂̅͠
 <br>
 <br>
-<BR>
+<br>
 <img src="https://github-profile-trophy.vercel.app/?username=yoel0&title=Joined2020" />
 
 <!--
