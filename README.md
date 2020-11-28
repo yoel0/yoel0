@@ -21,7 +21,6 @@ Problem Solver | Team Player | Love to Learn
 <h4 align="center">𝔪𝔶【𝕤𝕥𝕒𝕔𝕜】</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript" />
-<img src="https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript&logoColor=007ACC" />
 <img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb" />
 <img src="https://img.shields.io/badge/-Express-white?style=flat-square&logo=express" />
 <img src="https://img.shields.io/badge/-ReactJS-white?style=flat-square&logo=react" />
@@ -30,15 +29,10 @@ Problem Solver | Team Player | Love to Learn
 <img src="https://img.shields.io/badge/-Django-white?style=flat-square&logo=django&logoColor=006400" />
 <br />
 <img src="https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql&logoColor=336791" />
-<img src="https://img.shields.io/badge/-GraphQL-white?style=flat-square&logo=graphql&logoColor=E10098" />
-<img src="https://img.shields.io/badge/-Apollo%20GraphQL-white?style=flat-square&logo=apollo-graphql&logoColor=311C87" />
- <img src="https://img.shields.io/badge/-Redux-white?style=flat-square&logo=redux&logoColor=764ABC" />
 <img src="https://img.shields.io/badge/-Jupyter-white?style=flat-square&logo=jupyter" />
 <img src="https://img.shields.io/badge/-Postman-white?style=flat-square&logo=postman&logoColor=FF6C37" />
 <br />
 <img src="https://img.shields.io/badge/-Material_UI-white?style=flat-square&logo=material-ui&logoColor=0081CB" />
-<img src="https://img.shields.io/badge/-Sass-white?style=flat-square&logo=sass&logoColor=CC6699" />
-<img src="https://img.shields.io/badge/-Bootstrap-white?style=flat-square&logo=bootstrap&logoColor=563D7C" />
 <img src="https://img.shields.io/badge/-CSS3-white?style=flat-square&logo=css3&logoColor=1572B6" />
 <img src="https://img.shields.io/badge/-HTML5-white?style=flat-square&logo=html5&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/-Git-white?style=flat-square&logo=git" />
