@@ -51,14 +51,11 @@ Problem Solver | Team Player | Love to Learn
 <img src="https://komarev.com/ghpvc/?username=yoel0&color=lightgray" />
 </p>
 <br>
-<br>
-<br>
 
-2̶̧̨̛͋͋0̵̨̳̯͖̺͎̟́̀͗̓̋̇̕͜͜͝2̵̙̜̘͇̩͕̤̭̖͎̌0̴͍̰̺̦͍̱̭̗̎̉͘̕ͅ ̷̢̞̖͖̻̞̦͕́Ȉ̶̯̱͚̑́T̷͕̜̳̠͛̓ ̵̙̖͚͓͔̰̖͇̙̒̔̈̏̓̽͜͠͝B̶̬̓͗̅͗͠Ȩ̴̙̮̦̖̭̟̱̒͛̕G̷̼̳̰̱̮̜͂̀͆͝͝ͅͅA̶̛̠̫͇͇̲̓̍̂͗̉N̴̫̹͈̑̅͛͐̐̐͐̂̅͠
-<br>
-<br>
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=yoel0&title=Joined2020" />
+<p align="center">
+<img align="center" src="secretStuff/hamsa.png" height="200px" /> <img src="https://github-profile-trophy.vercel.app/?username=yoel0&title=Joined2020" />
+</p>
+
 
 <!--
 **yoel0/yoel0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
