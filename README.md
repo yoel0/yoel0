@@ -25,10 +25,10 @@ Problem Solver | Team Player | Love to Learn
 <img src="https://img.shields.io/badge/-Express-white?style=flat-square&logo=express" />
 <img src="https://img.shields.io/badge/-ReactJS-white?style=flat-square&logo=react" />
 <img src="https://img.shields.io/badge/-NodeJS-white?style=flat-square&logo=Node.js" />
+<img src="https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql&logoColor=336791" />
+<br />
 <img src="https://img.shields.io/badge/-Python3-white?style=flat-square&logo=Python" />
 <img src="https://img.shields.io/badge/-Django-white?style=flat-square&logo=django&logoColor=006400" />
-<br />
-<img src="https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql&logoColor=336791" />
 <img src="https://img.shields.io/badge/-Jupyter-white?style=flat-square&logo=jupyter" />
 <img src="https://img.shields.io/badge/-Postman-white?style=flat-square&logo=postman&logoColor=FF6C37" />
 <br />
