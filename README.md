@@ -53,7 +53,7 @@ Problem Solver | Team Player | Love to Learn
 <br>
 
 <p align="center">
-<img align="center" src="secretStuff/hamsa.png" height="200px" /> <img src="https://github-profile-trophy.vercel.app/?username=yoel0&title=Joined2020" />
+<img align="center" src="secretStuff/hamsa.png" height="175px" /> <img src="https://github-profile-trophy.vercel.app/?username=yoel0&title=Joined2020" />
 </p>
 
 
