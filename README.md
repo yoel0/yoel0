@@ -2,7 +2,14 @@
 Problem Solver | Team Player | Love to Learn
 
 ###### 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
-<img src="https://github-readme-stats.vercel.app/api?username=yoel0&count_private=true&include_all_commits=true&theme=graywhite&show_icons=true&hide_title=true&hide_border=true&hide=issues" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoel0&langs_count=10&layout=compact&theme=vue&hide_title=true&hide_border=true&hide=html,jupyter%20notebook" />
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yoel0&count_private=true&include_all_commits=true&theme=graywhite&show_icons=true&hide_title=true&hide_border=true&hide=issues" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoel0&langs_count=10&layout=compact&theme=vue&hide_title=true&hide_border=true&hide=html,jupyter%20notebook" />
+</p>
 
 <p align="center">
 My name is Yoel Morad, a passionate student of all things frontEnd and backEnd from Los Angeles, California.
