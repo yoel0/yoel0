@@ -52,10 +52,6 @@ Problem Solver | Team Player | Love to Learn
 </p>
 <br>
 
-<p align="center">
-<img align="center" src="secretStuff/hamsa.png" height="155px" /> <img src="https://github-profile-trophy.vercel.app/?username=yoel0&title=Joined2020" />
-</p>
-
 
 <!--
 **yoel0/yoel0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
