@@ -5,7 +5,7 @@ Problem Solver | Team Player | Love to Learn
 <img src="https://github-readme-stats.vercel.app/api?username=yoel0&count_private=true&include_all_commits=true&theme=graywhite&show_icons=true&hide_title=true&hide_border=true&hide=issues" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoel0&langs_count=10&layout=compact&theme=vue&hide_title=true&hide_border=true&hide=html,jupyter%20notebook" />
 
 <p align="center">
-<img src="/secretStuff/wave.gif" width="30px" /> My name is Yoel Morad, a passionate student of all things frontEnd and backEnd from Los Angeles, California.
+My name is Yoel Morad, a passionate student of all things frontEnd and backEnd from Los Angeles, California.
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/yoelmorad/" target="_blank"><img src="https://img.shields.io/badge/-0072b1?style=plastic&logo=Linkedin&logoColor=white" align="center" /></a>
@@ -18,7 +18,7 @@ Problem Solver | Team Player | Love to Learn
 <img src="/secretStuff/koi.gif" height="200px" />
 </p>
 
-<h4 align="center">𝔪𝔶【𝕤𝕥𝕒𝕔𝕜】</h4>
+<h4 align="center">【<img src="/secretStuff/hamsa.gif"  height="65px" />】</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript" />
 <img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb" />
