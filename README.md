@@ -15,7 +15,7 @@ Problem Solver | Team Player | Love to Learn
 𝚃𝚑𝚎𝚛𝚎 𝚒𝚜 𝚗𝚘 𝚙𝚕𝚊𝚌𝚎 𝚕𝚒𝚔𝚎 𝟷𝟸𝟽.𝟶.𝟶.𝟷
 </p>
 <p align="center">
-<img src="/secretStuff/koi.gif" height="300px" />
+<img src="/secretStuff/koi.gif" height="200px" />
 </p>
 
 <h4 align="center">𝔪𝔶【𝕤𝕥𝕒𝕔𝕜】</h4>
