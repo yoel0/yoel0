@@ -44,7 +44,7 @@ My name is Yoel Morad, a passionate student of all things frontEnd and backEnd f
 
 
 <details align="center">
-<summary>Joke of the Day</summary>
+<summary>ᶜˡⁱᶜᵏ ᵗᵒ 𝔰𝔲𝔪𝔪𝔬𝔫 ᵃ ʲᵒᵏᵉ</summary>
 <img src="https://readme-jokes.vercel.app/api?theme=graywhite" />
 </details>
 <p align="center">
