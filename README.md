@@ -1,7 +1,7 @@
 # Software Engineer ➹ Full-Stack Developer 
 Problem Solver | Team Player | Love to Learn
 
-#### &#x1f4c8; 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
+###### 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
 <img src="https://github-readme-stats.vercel.app/api?username=yoel0&count_private=true&include_all_commits=true&theme=graywhite&show_icons=true&hide_title=true&hide_border=true&hide=issues" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoel0&langs_count=10&layout=compact&theme=vue&hide_title=true&hide_border=true&hide=html,jupyter%20notebook" />
 
 <p align="center">
@@ -15,10 +15,10 @@ My name is Yoel Morad, a passionate student of all things frontEnd and backEnd f
 𝚃𝚑𝚎𝚛𝚎 𝚒𝚜 𝚗𝚘 𝚙𝚕𝚊𝚌𝚎 𝚕𝚒𝚔𝚎 𝟷𝟸𝟽.𝟶.𝟶.𝟷
 </p>
 <p align="center">
-<img src="/secretStuff/koi.gif" height="200px" />
+<img src="/secretStuff/koi.gif" height="100px" />
 </p>
 
-<h4 align="center">【<img src="/secretStuff/hamsa.gif"  height="65px" />】</h4>
+<h4 align="center">【<img src="/secretStuff/hamsa.gif"  height="45px" />】</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript" />
 <img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb" />
