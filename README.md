@@ -33,7 +33,7 @@ My name is Yoel Morad, a passionate student of all things frontEnd and backEnd f
 ---
 
 <h4>𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍:
-<img src="https://img.shields.io/badge/-React-white?style=flat-square&logo=react" />
+<img src="https://img.shields.io/badge/-React-transparent?style=flat-square&logo=react" />
 <img src="https://img.shields.io/badge/-Material_UI-white?style=flat-square&logo=material-ui&logoColor=0081CB" />
 <img src="https://img.shields.io/badge/-Next.js-white?style=flat-square&logo=next.js&logoColor=000000" />
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-white?style=flat-square&logo=tailwind%20css&logoColor=38B2AC" />
