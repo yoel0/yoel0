@@ -24,38 +24,44 @@ My name is Yoel Morad, a passionate student of all things frontEnd and backEnd f
 </p>
 
 <h4 align="center">【<img src="/secretStuff/hamsa.gif"  height="45px" />】</h4>
-<p align="center">
+
+<h4 align="center">Languages:
 <img src="https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript" />
+<img src="https://img.shields.io/badge/-Python-white?style=flat-square&logo=python" />
+<img src="https://img.shields.io/badge/-HTML5-white?style=flat-square&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/-CSS3-white?style=flat-square&logo=css3&logoColor=1572B6" />
+</h4>
+<h4 align="center">Frontend:
+<img src="https://img.shields.io/badge/-React-white?style=flat-square&logo=react" />
+<img src="https://img.shields.io/badge/-Material_UI-white?style=flat-square&logo=material-ui&logoColor=0081CB" />
+<img src="https://img.shields.io/badge/-Next.js-white?style=flat-square&logo=next.js&logoColor=000000" />
+<img src="https://img.shields.io/badge/-Tailwind%20CSS-white?style=flat-square&logo=tailwind%20css&logoColor=38B2AC" />
+</h4>
+<h4 align="center">Backend:
 <img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb" />
 <img src="https://img.shields.io/badge/-Express-white?style=flat-square&logo=express" />
-<img src="https://img.shields.io/badge/-ReactJS-white?style=flat-square&logo=react" />
-<img src="https://img.shields.io/badge/-NodeJS-white?style=flat-square&logo=Node.js" />
+<img src="https://img.shields.io/badge/-Node.js-white?style=flat-square&logo=Node.js" />
+<img src="https://img.shields.io/badge/-SQL-white?style=flat-square&logo=sql" />
 <img src="https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql&logoColor=336791" />
-<br />
-<img src="https://img.shields.io/badge/-Python3-white?style=flat-square&logo=Python" />
+<img src="https://img.shields.io/badge/-NoSQL-white?style=flat-square&logo=nosql" />
 <img src="https://img.shields.io/badge/-Django-white?style=flat-square&logo=django&logoColor=006400" />
-<img src="https://img.shields.io/badge/-Jupyter-white?style=flat-square&logo=jupyter" />
-<img src="https://img.shields.io/badge/-Postman-white?style=flat-square&logo=postman&logoColor=FF6C37" />
-<br />
-<img src="https://img.shields.io/badge/-Material_UI-white?style=flat-square&logo=material-ui&logoColor=0081CB" />
-<img src="https://img.shields.io/badge/-CSS3-white?style=flat-square&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/-HTML5-white?style=flat-square&logo=html5&logoColor=E34F26" />
+</h4>
+<h4 align="center">Developer Tools:
 <img src="https://img.shields.io/badge/-Git-white?style=flat-square&logo=git" />
-<img src="https://img.shields.io/badge/-GitHub-white?style=flat-square&logo=github&logoColor=181717" />
-<img src="https://img.shields.io/badge/-VSCode-white?style=flat-square&logo=visual-studio-code&logoColor=007ACC" />
-<img src="https://img.shields.io/badge/-NPM-white?style=flat-square&logo=npm&logoColor=CB3837" />
+<img src="https://img.shields.io/badge/-Postman-white?style=flat-square&logo=postman&logoColor=FF6C37" />
 <img src="https://img.shields.io/badge/-Jest-white?style=flat-square&logo=jest&logoColor=C21325" />
-</p>
-
+<img src="https://img.shields.io/badge/-Jupyter%20Notebook-white?style=flat-square&logo=jupyter" />
+<img src="https://img.shields.io/badge/-Figma-white?style=flat-square&logo=figma&logoColor=F24E1E" />
+</h4>
 
 <details align="center">
-<summary>ᶜˡⁱᶜᵏ ᵗᵒ 𝔰𝔲𝔪𝔪𝔬𝔫 ᵃ ʲᵒᵏᵉ</summary>
+<summary>𝚌𝚕𝚒𝚌𝚔 𝚝𝚘 𝚜𝚞𝚖𝚖𝚘𝚗 𝚊 𝚓𝚘𝚔𝚎</summary>
 <img src="https://readme-jokes.vercel.app/api?theme=graywhite" />
 </details>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=yoel0&color=lightgray" />
 </p>
-<br>
+
 
 
 <!--
