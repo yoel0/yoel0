@@ -29,18 +29,12 @@ My name is Yoel Morad, a passionate student of all things frontEnd and backEnd f
 <img src="https://img.shields.io/badge/-HTML5-white?style=flat-square&logo=html5&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/-CSS3-white?style=flat-square&logo=css3&logoColor=1572B6" />
 </h4>
-
----
-
 <h4>𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍:
 <img src="https://img.shields.io/badge/-React-white?style=flat-square&logo=react" />
 <img src="https://img.shields.io/badge/-Material_UI-white?style=flat-square&logo=material-ui&logoColor=0081CB" />
 <img src="https://img.shields.io/badge/-Next.js-white?style=flat-square&logo=next.js&logoColor=000000" />
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-white?style=flat-square&logo=tailwind%20css&logoColor=38B2AC" />
 </h4>
-
----
-
 <h4>𝙱𝚊𝚌𝚔𝚎𝚗𝚍:
 <img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb" />
 <img src="https://img.shields.io/badge/-Express-white?style=flat-square&logo=express" />
@@ -50,9 +44,6 @@ My name is Yoel Morad, a passionate student of all things frontEnd and backEnd f
 <img src="https://img.shields.io/badge/-NoSQL-white?style=flat-square&logo=nosql" />
 <img src="https://img.shields.io/badge/-Django-white?style=flat-square&logo=django&logoColor=006400" />
 </h4>
-
----
-
 <h4>𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚃𝚘𝚘𝚕𝚜:
 <img src="https://img.shields.io/badge/-Git-white?style=flat-square&logo=git" />
 <img src="https://img.shields.io/badge/-Postman-white?style=flat-square&logo=postman&logoColor=FF6C37" />
