@@ -7,7 +7,8 @@ Problem Solver | Team Player | Love to Learn
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yoel0&count_private=true&include_all_commits=true&theme=graywhite&show_icons=true&hide_title=true&hide_border=true&hide=issues" /> -->
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoel0&langs_count=10&layout=compact&theme=vue&hide_title=true&hide_border=true&hide=html,jupyter%20notebook" />
+<img src="https://raw.githubusercontent.com/yoel0/profile-unicorn/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoel0&langs_count=10&layout=compact&theme=vue&hide_title=true&hide_border=true&hide=html,jupyter%20notebook" /> -->
 </p>
 
 <p align="center">
