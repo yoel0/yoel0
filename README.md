@@ -4,7 +4,7 @@ Problem Solver | Team Player | Love to Learn
 <p>𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜: </p>
 <p align="center">
 <img width="550" src="https://raw.githubusercontent.com/yoel0/profile-unicorn/master/profile-summary-card-output/monokai/0-profile-details.svg" />
-<img src="https://github-readme-stats.vercel.app/api?username=yoel0&count_private=true&include_all_commits=true&theme=monokai&show_icons=true&hide_title=true&hide_border=true&hide=issues" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=yoel0&count_private=true&include_all_commits=true&theme=monokai&show_icons=true&hide_title=true&hide_border=true&hide=issues" /> -->
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoel0&langs_count=10&layout=compact&theme=monokai&hide_title=true&hide_border=true&hide=html,jupyter%20notebook" />
