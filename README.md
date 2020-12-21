@@ -61,7 +61,7 @@ My name is Yoel Morad, a passionate student of all things frontEnd and backEnd f
 
 ---
 
-<h4 align="center">【<img src="/secretStuff/hamsa.gif"  height="45px" />】</h4>
+<h4 align="center">【<img src="/secretStuff/hamsa.gif"  height="55px" />】</h4>
 <details align="center">
 <summary>𝚌𝚕𝚒𝚌𝚔 𝚝𝚘 𝚜𝚞𝚖𝚖𝚘𝚗 𝚊 𝚓𝚘𝚔𝚎</summary>
 <img src="https://readme-jokes.vercel.app/api?theme=graywhite" />
