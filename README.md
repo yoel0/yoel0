@@ -56,8 +56,7 @@ My name is Yoel Morad, a passionate student of all things frontEnd and backEnd f
 <p><img src="https://img.shields.io/badge/-Git-white?style=flat-square&logo=git" />
 <img src="https://img.shields.io/badge/-Postman-white?style=flat-square&logo=postman&logoColor=FF6C37" />
 <img src="https://img.shields.io/badge/-Jest-white?style=flat-square&logo=jest&logoColor=C21325" />
-<img src="https://img.shields.io/badge/-Jupyter%20Notebook-white?style=flat-square&logo=jupyter" />
-<img src="https://img.shields.io/badge/-Figma-white?style=flat-square&logo=figma&logoColor=F24E1E" /></p>
+<img src="https://img.shields.io/badge/-Jupyter%20Notebook-white?style=flat-square&logo=jupyter" /></p>
 </h5>
 
 ---
