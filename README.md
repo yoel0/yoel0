@@ -1,5 +1,5 @@
 # Software Engineer ➹ Full-Stack Developer 
-Problem Solver | Team Player | Love to Learn
+Problem Solver | Team Player | Lifelong Learner
 
 <p>𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜: </p>
 <p align="center">
