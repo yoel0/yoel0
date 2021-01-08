@@ -48,8 +48,7 @@ My name is Yoel Morad, a passionate student of all things frontEnd and backEnd f
 <img src="https://img.shields.io/badge/-SQL-white?style=flat-square&logo=sql" />
 <img src="https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql&logoColor=336791" />
 <img src="https://img.shields.io/badge/-NoSQL-white?style=flat-square&logo=nosql" />
-<img src="https://img.shields.io/badge/-Django-white?style=flat-square&logo=django&logoColor=006400" />
-<img src="https://img.shields.io/badge/-GraphQL-white?style=flat-square&logo=graphql&logoColor=E10098" /></p>
+<img src="https://img.shields.io/badge/-Django-white?style=flat-square&logo=django&logoColor=006400" /></p>
 </h5>
 <h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
 <p>𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚃𝚘𝚘𝚕𝚜: </p>
