@@ -29,7 +29,7 @@ My name is Yoel Morad, an aspiring Software Craftsman of all things frontEnd and
 <p><img src="https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript" />
 <img src="https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript&logoColor=3178C6" />
 <img src="https://img.shields.io/badge/-Python-white?style=flat-square&logo=python" />
-<img src="https://img.shields.io/badge/Java-white?style=flat-square&logo=java" />
+<img src="https://img.shields.io/badge/Java-white?style=flat-square&logo=java&logoColor=007396" />
 <img src="https://img.shields.io/badge/-HTML5-white?style=flat-square&logo=html5&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/-CSS3-white?style=flat-square&logo=css3&logoColor=1572B6" /></p>
 </h5>
