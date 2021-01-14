@@ -11,7 +11,7 @@ Problem Solver | Team Player | Lifelong Learner
 </p>
 
 <p align="center">
-My name is Yoel Morad, a passionate student of all things frontEnd and backEnd from Los Angeles, California.
+My name is Yoel Morad, an aspiring Software Craftsman of all things frontEnd and backEnd from Los Angeles, California.
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/yoelmorad/" target="_blank"><img src="https://img.shields.io/badge/-0072b1?style=plastic&logo=Linkedin&logoColor=white" align="center" /></a>
