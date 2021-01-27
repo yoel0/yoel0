@@ -46,9 +46,7 @@ My name is Yoel Morad, an aspiring Software Craftsman of all things frontEnd and
 <p><img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb" />
 <img src="https://img.shields.io/badge/-Express-white?style=flat-square&logo=express" />
 <img src="https://img.shields.io/badge/-Node.js-white?style=flat-square&logo=Node.js" />
-<img src="https://img.shields.io/badge/-SQL-white?style=flat-square&logo=sql" />
 <img src="https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql&logoColor=336791" />
-<img src="https://img.shields.io/badge/-NoSQL-white?style=flat-square&logo=nosql" />
 <img src="https://img.shields.io/badge/-Django-white?style=flat-square&logo=django&logoColor=006400" /></p>
 </h5>
 <h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
