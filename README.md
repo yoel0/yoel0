@@ -39,7 +39,7 @@ My name is Yoel Morad, an aspiring Software Craftsman of all things frontEnd and
 <img src="https://img.shields.io/badge/-Material_UI-white?style=flat-square&logo=material-ui&logoColor=0081CB" />
 <img src="https://img.shields.io/badge/-Next.js-white?style=flat-square&logo=next.js&logoColor=000000" />
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-white?style=flat-square&logo=tailwind%20css&logoColor=38B2AC" />
-<!-- <img src="https://img.shields.io/badge/-Sass-white?style=flat-square&logo=sass&logoColor=CC6699" /></p> -->
+<img src="https://img.shields.io/badge/-Sass-white?style=flat-square&logo=sass&logoColor=CC6699" /></p>
 </h5>
 <h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
 <p>𝙱𝚊𝚌𝚔𝚎𝚗𝚍: </p>
