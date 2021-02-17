@@ -1,8 +1,8 @@
 # Software Engineer ➹ Full-Stack Developer 
 Problem Solver | Team Player | Lifelong Learner
-
+<img src="/secretStuff/rh.png" align="right" width="300px" />
 <p>𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜: </p>
-<p align="center">
+<p align="left">
 <img width="550" src="https://raw.githubusercontent.com/yoel0/profile-unicorn/master/profile-summary-card-output/monokai/0-profile-details.svg" />
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yoel0&count_private=true&include_all_commits=true&theme=monokai&show_icons=true&hide_title=true&hide_border=true&hide=issues" />
 </p>
@@ -11,20 +11,16 @@ Problem Solver | Team Player | Lifelong Learner
 </p>
 
 <p>𝙰𝚋𝚘𝚞𝚝: </p>
-<p align="center">
+<p align="left">
 My name is Yoel Morad, an aspiring Software Craftsman of all things frontEnd and backEnd from Los Angeles, California.
 </p>
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/yoelmorad/" target="_blank"><img src="https://img.shields.io/badge/-0072b1?style=plastic&logo=Linkedin&logoColor=white" align="center" /></a>
 <a href="mailto:yoelgabriel.m@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-c14438?style=plastic&logo=Gmail&logoColor=white" align="center" /></a>
 </p>
-<p align="center">
+<p align="left">
 𝚃𝚑𝚎𝚛𝚎 𝚒𝚜 𝚗𝚘 𝚙𝚕𝚊𝚌𝚎 𝚕𝚒𝚔𝚎 𝟷𝟸𝟽.𝟶.𝟶.𝟷
 </p>
-<p align="center">
-<img src="/secretStuff/koi.gif" height="100px" />
-</p>
-
 <h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
 <p>𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜: </p>
 <p><img src="https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript" />
@@ -63,7 +59,7 @@ My name is Yoel Morad, an aspiring Software Craftsman of all things frontEnd and
 
 ---
 
-<h4 align="center">【<img src="/secretStuff/hamsa.gif"  height="55px" />】</h4>
+<h4 align="center"><img src="/secretStuff/koi.gif" height="100px" /></h4>
 <details align="center">
 <summary>𝚌𝚕𝚒𝚌𝚔 𝚝𝚘 𝚜𝚞𝚖𝚖𝚘𝚗 𝚊 𝚓𝚘𝚔𝚎</summary>
 <img src="https://readme-jokes.vercel.app/api?theme=graywhite" />
