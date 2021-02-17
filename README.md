@@ -1,6 +1,6 @@
 # Software Engineer ➹ Full-Stack Developer 
 Problem Solver | Team Player | Lifelong Learner
-<img src="/secretStuff/rh.png" align="right" width="300px" />
+<img src="/secretStuff/rh.png" align="right" width="200px" />
 <p>𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜: </p>
 <p align="left">
 <img width="550" src="https://raw.githubusercontent.com/yoel0/profile-unicorn/master/profile-summary-card-output/monokai/0-profile-details.svg" />
