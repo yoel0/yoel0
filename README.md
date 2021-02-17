@@ -40,7 +40,7 @@ My name is Yoel Morad, an aspiring Software Craftsman of all things frontEnd and
 <img src="https://img.shields.io/badge/-Styled%20Components-white?style=flat-square&logo=styled-components&logoColor=DB7093" />
 <img src="https://img.shields.io/badge/-Material%20UI-white?style=flat-square&logo=material-ui&logoColor=0081CB" />
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-white?style=flat-square&logo=tailwind%20css&logoColor=38B2AC" />
-<img src="https://img.shields.io/badge/-Apollo%20GraphQL[Client]-white?style=flat-square&logo=ApolloGraphQL&logoColor=311C87" /></p>
+<img src="https://img.shields.io/badge/-Apollo%20GraphQL[Client]-white?style=flat-square&logo=Apollo%20GraphQL&logoColor=311C87" /></p>
 </h5>
 <h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
 <p>𝙱𝚊𝚌𝚔𝚎𝚗𝚍: </p>
@@ -48,7 +48,7 @@ My name is Yoel Morad, an aspiring Software Craftsman of all things frontEnd and
 <img src="https://img.shields.io/badge/-Express-white?style=flat-square&logo=Express&logoColor=000000" />
 <img src="https://img.shields.io/badge/-Node.js-white?style=flat-square&logo=Node.js" />
 <img src="https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql&logoColor=336791" />
-<img src="https://img.shields.io/badge/-Apollo%20GraphQL[Server]-white?style=flat-square&logo=ApolloGraphQL&logoColor=311C87" /></p>
+<img src="https://img.shields.io/badge/-Apollo%20GraphQL[Server]-white?style=flat-square&logo=Apollo%20GraphQL&logoColor=311C87" /></p>
 </h5>
 <h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
 <p>𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚃𝚘𝚘𝚕𝚜: </p>
