@@ -1,9 +1,9 @@
 # Software Engineer ➹ Full-Stack Developer 
 Problem Solver | Team Player | Lifelong Learner
-<img src="/secretStuff/rh.png" align="right" width="200px" />
+<img src="/secretStuff/rh.png" align="right" width="30%" />
 <p>𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜: </p>
 <p align="left">
-<img width="550" src="https://raw.githubusercontent.com/yoel0/profile-unicorn/master/profile-summary-card-output/github/0-profile-details.svg" />
+<img width="60%" src="https://raw.githubusercontent.com/yoel0/profile-unicorn/master/profile-summary-card-output/github/0-profile-details.svg" />
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yoel0&count_private=true&include_all_commits=true&theme=monokai&show_icons=true&hide_title=true&hide_border=true&hide=issues" />
 </p>
 <p align="center">
