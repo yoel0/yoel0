@@ -16,7 +16,7 @@ My name is Yoel Morad, an aspiring Software Craftsman of all things frontEnd and
 </p>
 <p align="left">
 <a target="_blank" href="https://www.linkedin.com/in/yoelmorad/"><img src="https://img.shields.io/badge/let's connect 🤝-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:yoelgabriel.m@gmail.com?subject=Hello%20Yoel,%20From%20Github"><img src="https://img.shields.io/badge/write an email ✍️-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="mailto:yoelgabriel.m@gmail.com?subject=Hello%20Yoel,%20From%20Github"><img src="https://img.shields.io/badge/let's chat 💬-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 <p align="left">
 𝚃𝚑𝚎𝚛𝚎 𝚒𝚜 𝚗𝚘 𝚙𝚕𝚊𝚌𝚎 𝚕𝚒𝚔𝚎 𝟷𝟸𝟽.𝟶.𝟶.𝟷
