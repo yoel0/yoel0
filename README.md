@@ -15,8 +15,8 @@ Problem Solver | Team Player | Lifelong Learner
 My name is Yoel Morad, an aspiring Software Craftsman of all things frontEnd and backEnd from Los Angeles, California.
 </p>
 <p align="left">
-<a href="https://www.linkedin.com/in/yoelmorad/" target="_blank"><img src="https://img.shields.io/badge/-0072b1?style=plastic&logo=Linkedin&logoColor=white" align="center" /></a>
-<a href="mailto:yoelgabriel.m@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-c14438?style=plastic&logo=Gmail&logoColor=white" align="center" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/yoelmorad/"><img src="https://img.shields.io/badge/connect with me-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:yoelgabriel.m@gmail.com?subject=Hello%20Yoel,%20From%20Github"><img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 <p align="left">
 𝚃𝚑𝚎𝚛𝚎 𝚒𝚜 𝚗𝚘 𝚙𝚕𝚊𝚌𝚎 𝚕𝚒𝚔𝚎 𝟷𝟸𝟽.𝟶.𝟶.𝟷
