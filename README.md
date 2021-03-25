@@ -70,11 +70,7 @@ My name is Yoel Morad, an aspiring Software Craftsman of all things frontEnd and
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=yoel0&color=dc143c" />
 </p>
-
-<img src="https://img.shields.io/badge/-Material%20UI-white?style=flat-square&logo=Material-UI" />
-<img src="https://img.shields.io/badge/-C#-white?style=flat-square&logo=CSharp" />
-<img src="https://img.shields.io/badge/-Flutter-white?style=flat-square&logo=Flutter" />
-
+<!-- c, flutz, -->
 <!--
 **yoel0/yoel0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
