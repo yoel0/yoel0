@@ -58,6 +58,7 @@ My name is Yoel Morad, an aspiring Software Craftsman of all things frontEnd and
 <img src="https://img.shields.io/badge/-CodeceptJS-white?style=flat-square&logo=CodeceptJS&logoColor=F6E05E" />
 <img src="https://img.shields.io/badge/-Puppeteer-white?style=flat-square&logo=Puppeteer&logoColor=40B5A4" />
 <img src="https://img.shields.io/badge/-Jest-white?style=flat-square&logo=Jest&logoColor=C21325" />
+<img src="https://img.shields.io/badge/-Mocha-white?style=flat-square&logo=Mocha&logoColor=8D6748" />
 <img src="https://img.shields.io/badge/-Vercel-white?style=flat-square&logo=Vercel&logoColor=000000" />
 <img src="https://img.shields.io/badge/-Jira-white?style=flat-square&logo=Jira%20Software&logoColor=0052CC" />
 <img src="https://img.shields.io/badge/-Figma-white?style=flat-square&logo=Figma&logoColor=F24E1E" /></p>
