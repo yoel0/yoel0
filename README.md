@@ -30,7 +30,7 @@ My name is Yoel Morad, an aspiring Software Craftsman of all things frontEnd and
 <img src="https://img.shields.io/badge/-GraphQL-white?style=flat-square&logo=GraphQL&logoColor=E10098" />
 <img src="https://img.shields.io/badge/-HTML5-white?style=flat-square&logo=html5&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/-CSS3-white?style=flat-square&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/-MDX-white?style=flat-square&logo=mdx&logoColor=000000" /></p>
+<img src="https://img.shields.io/badge/-MDX-white?style=flat-square&logo=markdown&logoColor=000000" /></p>
 </h5>
 <h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
 <p>𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍: </p>
