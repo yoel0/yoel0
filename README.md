@@ -53,7 +53,6 @@ My name is Yoel Morad, an aspiring Software Craftsman of all things frontEnd and
 <p>𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚃𝚘𝚘𝚕𝚜: </p>
 <p><img src="https://img.shields.io/badge/-Git-white?style=flat-square&logo=Git" />
 <img src="https://img.shields.io/badge/-NPM-white?style=flat-square&logo=NPM" />
-<!-- <img src="https://img.shields.io/badge/-Yarn-white?style=flat-square&logo=yarn&logoColor=2C8EBB" /> -->
 <img src="https://img.shields.io/badge/-Postman-white?style=flat-square&logo=Postman&logoColor=FF6C37" />
 <img src="https://img.shields.io/badge/-CodeceptJS-white?style=flat-square&logo=CodeceptJS&logoColor=F6E05E" />
 <img src="https://img.shields.io/badge/-Puppeteer-white?style=flat-square&logo=Puppeteer&logoColor=40B5A4" />
