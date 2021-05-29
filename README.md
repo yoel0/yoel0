@@ -73,7 +73,7 @@ My name is Yoel Morad, an aspiring Software Craftsman of all things frontEnd and
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=yoel0&color=dc143c" />
 </p>
-<!-- c, flutz, -->
+<!-- flutz, -->
 <!--
 **yoel0/yoel0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
