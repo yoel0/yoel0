@@ -47,7 +47,8 @@ My name is Yoel Morad, an aspiring Software Craftsman of all things frontEnd and
 <img src="https://img.shields.io/badge/-Node.js-white?style=flat-square&logo=Node.js" />
 <img src="https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=PostgreSQL&logoColor=336791" />
 <img src="https://img.shields.io/badge/-Prisma-white?style=flat-square&logo=Prisma&logoColor=2D3748" />
-<img src="https://img.shields.io/badge/-Apollo%20GraphQL-white?style=flat-square&logo=Apollo%20GraphQL&logoColor=311C87" /></p>
+<img src="https://img.shields.io/badge/-Apollo%20GraphQL-white?style=flat-square&logo=Apollo%20GraphQL&logoColor=311C87" />
+<img src="https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker" /></p>
 </h5>
 <h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
 <p>𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚃𝚘𝚘𝚕𝚜: </p>
