@@ -44,7 +44,7 @@ My name is Yoel Morad, an aspiring Software Craftsman of all things frontEnd and
 <p>𝙱𝚊𝚌𝚔𝚎𝚗𝚍: </p>
 <p><img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=MongoDB" />
 <img src="https://img.shields.io/badge/-Express-white?style=flat-square&logo=Express&logoColor=000000" />
-<img src="https://img.shields.io/badge/-Node.js-white?style=flat-square&logo=Node.js&logoColor=339933" />
+<!-- <img src="https://img.shields.io/badge/-Node.js-white?style=flat-square&logo=Node.js&logoColor=339933" /> -->
 <img src="https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=PostgreSQL&logoColor=336791" />
 <img src="https://img.shields.io/badge/-Prisma-white?style=flat-square&logo=Prisma&logoColor=2D3748" />
 <img src="https://img.shields.io/badge/-Apollo%20GraphQL-white?style=flat-square&logo=Apollo%20GraphQL&logoColor=311C87" />
