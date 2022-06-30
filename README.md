@@ -1,5 +1,4 @@
 # Software Engineer ➹ Full Stack Developer 
-Problem Solver | Team Player | Lifelong Learner
 <img src="/secretStuff/rh.png" align="right" width="30%" />
 <p>𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜: </p>
 <p align="left">
