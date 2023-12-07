@@ -6,7 +6,9 @@ I'm a software engineer who loves to build things and solve problems. I have a p
 
 ### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoelmorad)
+<a href="https://www.linkedin.com/in/yoelmorad" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 ### Languages
 
