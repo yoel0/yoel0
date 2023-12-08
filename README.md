@@ -34,6 +34,7 @@ I'm a software engineer who loves to build things and solve problems. I have a p
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=social&logo=postgresql)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=social&logo=mysql)](https://www.mysql.com/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=social&logo=redis)](https://redis.io/)
+[![TypeORM](https://img.shields.io/badge/TypeORM-EA2C62?style=flat&logoColor=white)](https://typeorm.io/)
 
 ### DevOps
 
