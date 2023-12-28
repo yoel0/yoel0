@@ -24,6 +24,7 @@ I'm a software engineer who loves to build things and solve problems. I have a p
 [![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=social&logo=svelte)](https://svelte.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=social&logo=next.js)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=social&logo=tailwind-css)](https://tailwindcss.com/)
+[![Mantine](https://img.shields.io/badge/Mantine-38B2AC?style=social&logo=mantine)](https://mantine.dev/)
 [![StyleX](https://img.shields.io/badge/StyleX-000000?style=flat&logoColor=WHITE)](https://stylexjs.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=social&logo=figma)](https://www.figma.com/)
 
