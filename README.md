@@ -53,7 +53,7 @@ I'm a software engineer who loves to build things and solve problems. I have a p
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=social&logo=git)](https://git-scm.com/)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=social&logo=npm)](https://www.npmjs.com/)
-[![Hoppscotch](https://img.shields.io/badge/Hoppscotch-FF4081?style=social&logo=hoppscotch)](https://hoppscotch.io/)
+[![Hoppscotch](https://img.shields.io/badge/Insomnia-FF4081?style=social&logo=insomnia)](https://insomnia.rest/)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=social&logo=jira)](https://www.atlassian.com/software/jira)
 
 <!--
