@@ -30,6 +30,7 @@ I'm a software engineer who loves to build things and solve problems. I have a p
 
 ### Backend
 
+[![Deno](https://img.shields.io/badge/Deno-339933?style=social&logo=deno)](https://deno.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=social&logo=node.js)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-000000?style=social&logo=express)](https://expressjs.com/)
 [![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=social&logo=apache-cassandra)](https://cassandra.apache.org/)
