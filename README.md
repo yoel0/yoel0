@@ -1,61 +1,65 @@
-# Hello, I'm Yoel 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&width=400&height=75&lines=Hello%2C+I'm+Yoel+%F0%9F%91%8B;Software+Engineer+%7C+Problem+Solver;Continuous+Learner+📓" alt="Typing SVG" />
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yoel0&color=green)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yoel0&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" height="18">
+  <a href="https://www.linkedin.com/in/yoelmorad" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=Linkedin&logoColor=0077B5" alt="LinkedIn" height="18"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio Under Construction 🏗️-000?style=flat-square&logo=ycombinator&logoColor=4285F4" alt="Portfolio" height="18"/>
+  </a>
+</p>
 
-I'm a software engineer who loves to build things and solve problems. I have a passion for learning and sharing my knowledge with others as publicly as possible.
+<p align="center" style="font-size:4px;"><i>“I was gratified to be able to answer promptly, and I did. I said I didn’t know.”</i>― Mark Twain</p>
+<p align="center" style="font-size:11px;">
+  Passionate about crafting elegant solutions to complex problems. I thrive on learning new technologies and sharing knowledge with the developer community.
+</p>
 
-### Connect with me
+<h4 align="center">Tech Arsenal</h4>
 
-<a href="https://www.linkedin.com/in/yoelmorad" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+<p align="center" style="line-height: 16px;">
+  <img alt="JS" src="https://img.shields.io/badge/JS-000?style=flat-square&logo=javascript&logoColor=F7DF1E" height="20"/>
+  <img alt="TS" src="https://img.shields.io/badge/TS-000?style=flat-square&logo=typescript&logoColor=3178C6" height="20"/>
+  <img alt="Go" src="https://img.shields.io/badge/Go-000?style=flat-square&logo=go&logoColor=00ADD8" height="20"/>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-000?style=flat-square&logo=html5&logoColor=E34F26" height="20"/>
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-000?style=flat-square&logo=css3&logoColor=1572B6" height="20"/>
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-000?style=flat-square&logo=graphql&logoColor=E10098" height="20"/>
+  <img alt="Svelte" src="https://img.shields.io/badge/Svelte-000?style=flat-square&logo=svelte&logoColor=FF3E00" height="20"/>
+  <img alt="Next" src="https://img.shields.io/badge/Next-000?style=flat-square&logo=next.js&logoColor=white" height="20"/>
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwind-css&logoColor=38B2AC" height="20"/>
+  <img alt="Node" src="https://img.shields.io/badge/Node-000?style=flat-square&logo=node.js&logoColor=339933" height="20"/>
+  <img alt="Deno" src="https://img.shields.io/badge/Deno-000?style=flat-square&logo=deno&logoColor=white" height="20"/>
+  <img alt="Express" src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white" height="20"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=336791" height="20"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=4479A1" height="20"/>
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-000?style=flat-square&logo=redis&logoColor=DC382D" height="20"/>
+  <img alt="TypeORM" src="https://img.shields.io/badge/TypeORM-000?style=flat-square&logo=typeorm" height="20"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=2496ED" height="20"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazon-aws&logoColor=FF9900" height="20"/>
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" height="20"/>
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-000?style=flat-square&logo=cloudflare&logoColor=F38020" height="20"/>
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-000?style=flat-square&logo=jest&logoColor=C21325" height="20"/>
+  <img alt="Puppeteer" src="https://img.shields.io/badge/Puppeteer-000?style=flat-square&logo=puppeteer&logoColor=40B5A4" height="20"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=F05032" height="20"/>
+  <img alt="npm" src="https://img.shields.io/badge/npm-000?style=flat-square&logo=npm&logoColor=CB3837" height="20"/>
+  <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-000?style=flat-square&logo=insomnia&logoColor=5849BE" height="20"/>
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-000?style=flat-square&logo=jira&logoColor=0052CC" height="20"/>
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-000?style=flat-square&logo=notion&logoColor=white" height="20"/>
+</p>
 
-### Languages
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yoel0&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=4&title=MultiLanguage,Commits,Repositories,Experience" alt="Yoel's GitHub Trophies" height="100"/>
+</div>
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=social&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=social&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=social&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=social&logo=typescript)](https://www.typescriptlang.org/)
-[![GraphQL](https://img.shields.io/badge/GraphQL-E434AA?style=social&logo=graphql)](https://graphql.org/)
-[![Rust (Learning)](https://img.shields.io/badge/Rust_(Learning)-000000?style=social&logo=rust)](https://www.rust-lang.org/)
+<p align="center" style="font-size:11px;">
+  💡 Always eager to learn and collaborate on exciting projects. Let's connect and build something <i>s u p e r</i> together!
+</p>
 
-### Frontend
-
-[![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=social&logo=svelte)](https://svelte.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=social&logo=next.js)](https://nextjs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=social&logo=tailwind-css)](https://tailwindcss.com/)
-[![Mantine](https://img.shields.io/badge/Mantine-38B2AC?style=social&logo=mantine)](https://mantine.dev/)
-[![StyleX](https://img.shields.io/badge/StyleX-000000?style=flat&logoColor=WHITE)](https://stylexjs.com/)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=social&logo=figma)](https://www.figma.com/)
-
-### Backend
-
-[![Deno](https://img.shields.io/badge/Deno-339933?style=social&logo=deno)](https://deno.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=social&logo=node.js)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-000000?style=social&logo=express)](https://expressjs.com/)
-[![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=social&logo=apache-cassandra)](https://cassandra.apache.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=social&logo=postgresql)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=social&logo=mysql)](https://www.mysql.com/)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=social&logo=redis)](https://redis.io/)
-[![TypeORM](https://img.shields.io/badge/TypeORM-FFA500?style=flat&logoColor=WHITE)](https://typeorm.io/)
-
-### DevOps
-
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=social&logo=docker)](https://www.docker.com/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=social&logo=amazon-aws)](https://aws.amazon.com/)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=social&logo=vercel)](https://vercel.com/)
-
-### Testing
-
-[![Jest](https://img.shields.io/badge/Jest-C21325?style=social&logo=jest)](https://jestjs.io/)
-[![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=social&logo=puppeteer)](https://pptr.dev/)
-
-### Others
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=social&logo=git)](https://git-scm.com/)
-[![npm](https://img.shields.io/badge/npm-CB3837?style=social&logo=npm)](https://www.npmjs.com/)
-[![Hoppscotch](https://img.shields.io/badge/Insomnia-FF4081?style=social&logo=insomnia)](https://insomnia.rest/)
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=social&logo=jira)](https://www.atlassian.com/software/jira)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=58&section=footer" width="100%" />
+</div>
 
 <!--
 **yoel0/yoel0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
