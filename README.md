@@ -47,6 +47,7 @@
   <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-000?style=flat-square&logo=insomnia&logoColor=5849BE" height="20"/>
   <img alt="Jira" src="https://img.shields.io/badge/Jira-000?style=flat-square&logo=jira&logoColor=0052CC" height="20"/>
   <img alt="Notion" src="https://img.shields.io/badge/Notion-000?style=flat-square&logo=notion&logoColor=white" height="20"/>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma" height="20"/>
 </p>
 
 <div align="center">
