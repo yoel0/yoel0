@@ -37,7 +37,7 @@
   <img alt="Redis" src="https://img.shields.io/badge/Redis-000?style=flat-square&logo=redis&logoColor=DC382D" height="20"/>
   <img alt="TypeORM" src="https://img.shields.io/badge/TypeORM-000?style=flat-square&logo=typeorm" height="20"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=2496ED" height="20"/>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazon-aws&logoColor=FF9900" height="20"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazon-web-services&logoColor=FF9900" height="20"/>
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" height="20"/>
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-000?style=flat-square&logo=cloudflare&logoColor=F38020" height="20"/>
   <img alt="Jest" src="https://img.shields.io/badge/Jest-000?style=flat-square&logo=jest&logoColor=C21325" height="20"/>
