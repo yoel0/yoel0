@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=0A4D68&center=true&vCenter=true&multiline=true&width=400&height=75&lines=Hello%2C+I'm+Yoel+%F0%9F%91%8B;Software+Engineer+%7C+Problem+Solver;Continuous+Learner+📓" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=0C5E80&center=true&vCenter=true&multiline=true&width=400&height=75&lines=Hello%2C+I'm+Yoel+%F0%9F%91%8B;Software+Engineer+%7C+Problem+Solver;Continuous+Learner+📓" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -59,7 +59,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A4D68&height=58&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0C5E80&height=58&section=footer" width="100%" />
 </div>
 
 <!--
