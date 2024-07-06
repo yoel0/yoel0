@@ -7,9 +7,9 @@
   <a href="https://www.linkedin.com/in/yoelmorad" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=Linkedin&logoColor=0077B5" alt="LinkedIn" height="18"/>
   </a>
-  <a href="#" target="_blank">
+<!--   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio Under Construction 🏗️-000?style=flat-square&logo=ycombinator&logoColor=4285F4" alt="Portfolio" height="18"/>
-  </a>
+  </a> -->
 </p>
 
 <p align="center" style="font-size:4px;"><i>“I was gratified to be able to answer promptly, and I did. I said I didn’t know.”</i>― Mark Twain</p>
