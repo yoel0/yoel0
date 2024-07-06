@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yoel0&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" height="18">
+  <img src="https://komarev.com/ghpvc/?username=yoel0&color=0C5E80&style=flat-square&label=Profile+Views" alt="Profile Views" height="18">
   <a href="https://www.linkedin.com/in/yoelmorad" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=Linkedin&logoColor=0077B5" alt="LinkedIn" height="18"/>
   </a>
