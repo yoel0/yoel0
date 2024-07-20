@@ -22,7 +22,7 @@
 <p align="center" style="line-height: 16px;">
   <img alt="JS" src="https://img.shields.io/badge/JS-000?style=flat-square&logo=javascript&logoColor=F7DF1E" height="20"/>
   <img alt="TS" src="https://img.shields.io/badge/TS-000?style=flat-square&logo=typescript&logoColor=3178C6" height="20"/>
-  <img alt="Go" src="https://img.shields.io/badge/Go-000?style=flat-square&logo=go&logoColor=00ADD8" height="20"/>
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust" height="20"/>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-000?style=flat-square&logo=html5&logoColor=E34F26" height="20"/>
   <img alt="CSS" src="https://img.shields.io/badge/CSS-000?style=flat-square&logo=css3&logoColor=1572B6" height="20"/>
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-000?style=flat-square&logo=graphql&logoColor=E10098" height="20"/>
