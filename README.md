@@ -14,7 +14,7 @@
 
 <p align="center" style="font-size:4px;"><i>“I was gratified to be able to answer promptly, and I did. I said I didn’t know.”</i>― Mark Twain</p>
 <p align="center" style="font-size:11px;">
-  Passionate about crafting elegant solutions to complex problems. I thrive on learning new technologies and sharing knowledge with the developer community.
+  Passionate about crafting solutions to complex problems. I thrive on learning new technologies and sharing knowledge with the developer community.
 </p>
 
 <h4 align="center">Tech Arsenal</h4>
