@@ -50,10 +50,6 @@
 <img alt="Figma" src="https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma" height="20"/>
 </p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yoel0&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=4&title=MultiLanguage,Commits,Repositories,Experience" alt="Yoel's GitHub Trophies" height="100"/>
-</div>
-
 <p align="center" style="font-size:11px;">
   💡 Always eager to learn and collaborate on exciting projects. Let's connect and build something <i>s u p e r</i> together!
 </p>
