@@ -61,7 +61,7 @@ I'm **Yoel**, a Staff Software Engineer focused on designing resilient, scalable
 
 ### 🎧 Currently Listening to
 
-**Iron Maiden – The Trooper** 
+**Iron Maiden – Hallowed be Thy Name** 
 
 <a href="https://open.spotify.com/track/2C3B3dva983HPMojFqWLOp" target="_blank">
   <img src="https://img.shields.io/badge/Play%20on%20Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play on Spotify Badge"/>
