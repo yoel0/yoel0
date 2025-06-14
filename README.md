@@ -25,37 +25,45 @@ I'm **Yoel**, a Staff Software Engineer focused on designing resilient, scalable
 
 ### 🛠️ Tech Toolbox
 
-#### 🧩 Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E)  
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6)  
-![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=DEA584)  
-![SQL](https://img.shields.io/badge/SQL-000?style=flat-square&logo=sqlite&logoColor=003B57)
+#### 🧩 Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=DEA584" />
+  <img src="https://img.shields.io/badge/SQL-000?style=flat-square&logo=sqlite&logoColor=003B57" />
+</p>
 
-#### ⚙️ Frameworks & Runtime  
-![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js&logoColor=339933)  
-![Deno](https://img.shields.io/badge/Deno-000?style=flat-square&logo=deno&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)  
-![Svelte](https://img.shields.io/badge/Svelte-000?style=flat-square&logo=svelte&logoColor=FF3E00)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=flat-square&logo=tailwind-css&logoColor=38B2AC)  
-![Payload CMS](https://img.shields.io/badge/Payload_CMS-000?style=flat-square&logo=payloadcms&logoColor=white)
+#### ⚙️ Frameworks & Runtime
+<p>
+  <img src="https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Deno-000?style=flat-square&logo=deno&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Svelte-000?style=flat-square&logo=svelte&logoColor=FF3E00" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000?style=flat-square&logo=tailwind-css&logoColor=38B2AC" />
+  <img src="https://img.shields.io/badge/Payload_CMS-000?style=flat-square&logo=payloadcms&logoColor=white" />
+</p>
 
-#### 🗄️ Databases & Infra  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=4169E1)  
-![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=4479A1)  
-![Redis](https://img.shields.io/badge/Redis-000?style=flat-square&logo=redis&logoColor=DC382D)  
-![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=2496ED)  
-![Cloudflare](https://img.shields.io/badge/Cloudflare-000?style=flat-square&logo=cloudflare&logoColor=F38020)  
-![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-000?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+#### 🗄️ Databases & Infra
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/Redis-000?style=flat-square&logo=redis&logoColor=DC382D" />
+  <img src="https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Cloudflare-000?style=flat-square&logo=cloudflare&logoColor=F38020" />
+  <img src="https://img.shields.io/badge/Amazon_Web_Services-000?style=flat-square&logo=amazon-aws&logoColor=FF9900" />
+</p>
 
-#### 🧪 Testing & Dev Tools  
-![Jest](https://img.shields.io/badge/Jest-000?style=flat-square&logo=jest&logoColor=C21325)  
-![Puppeteer](https://img.shields.io/badge/Puppeteer-000?style=flat-square&logo=puppeteer&logoColor=40B5A4)  
-![Sentry](https://img.shields.io/badge/Sentry-000?style=flat-square&logo=sentry&logoColor=362D59)  
-![Insomnia](https://img.shields.io/badge/Insomnia-000?style=flat-square&logo=insomnia&logoColor=5849BE)  
-![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=F05032)  
-![Jira](https://img.shields.io/badge/Jira-000?style=flat-square&logo=jira&logoColor=0052CC)  
-![Notion](https://img.shields.io/badge/Notion-000?style=flat-square&logo=notion&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma&logoColor=F24E1E)
+#### 🧪 Testing & Dev Tools
+<p>
+  <img src="https://img.shields.io/badge/Jest-000?style=flat-square&logo=jest&logoColor=C21325" />
+  <img src="https://img.shields.io/badge/Puppeteer-000?style=flat-square&logo=puppeteer&logoColor=40B5A4" />
+  <img src="https://img.shields.io/badge/Sentry-000?style=flat-square&logo=sentry&logoColor=362D59" />
+  <img src="https://img.shields.io/badge/Insomnia-000?style=flat-square&logo=insomnia&logoColor=5849BE" />
+  <img src="https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Jira-000?style=flat-square&logo=jira&logoColor=0052CC" />
+  <img src="https://img.shields.io/badge/Notion-000?style=flat-square&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma&logoColor=F24E1E" />
+</p>
 
 ---
 
