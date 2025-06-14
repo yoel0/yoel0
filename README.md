@@ -16,8 +16,8 @@ I'm **Yoel**, a Staff Software Engineer focused on designing resilient, scalable
 
 - 🧠 I care deeply about *clarity*, *simplicity*, and *building with intent*
 - 🤝 I'm a strong believer in **mentorship**, team enablement, and leading by example
-- 🌍 I thrive on solving ambiguous challenges and making systems more robust
-- ✨ Currently focused on **evolving developer platforms, reducing cognitive overhead, and aligning engineering decisions with business outcomes**
+- 🌍 I thrive in ambiguity, turning complex, loosely defined problems into resilient, well architected systems
+- ✨ Currently focused on **reducing cognitive overhead, and aligning engineering decisions with business outcomes**
 
 > *“I was gratified to be able to answer promptly, and I did. I said I didn’t know.”* — Mark Twain
 
@@ -62,14 +62,14 @@ I'm **Yoel**, a Staff Software Engineer focused on designing resilient, scalable
 ### 🎧 Currently Listening to
 
 **Iron Maiden – The Trooper** 
- 
-<a href="https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx](https://open.spotify.com/track/2C3B3dva983HPMojFqWLOp?si=4527499608e34e38" target="_blank">
+
+<a href="https://open.spotify.com/track/2C3B3dva983HPMojFqWLOp" target="_blank">
   <img src="https://img.shields.io/badge/Play%20on%20Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Play on Spotify Badge"/>
 </a>
 
 <!-- Iron Maiden Logo -->
 <div align="right">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Iron_Maiden_logo.svg/2560px-Iron_Maiden_logo.svg.png" alt="Iron Maiden Logo" width="120px" />
+  <img src="./secretStuff/1818.png" alt="Iron Maiden Art" width="144px" />
 </div>
 
 ---
