@@ -82,7 +82,7 @@ I'm **Yoel**, a Staff Software Engineer focused on designing resilient, scalable
 
 ---
 
-### 👉👈 Let's Connect
+### 👉 Let's Connect
 
 Open to chats about engineering leadership, dev experience, platform thinking, or trading nerdy book recs.
 
