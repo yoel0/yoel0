@@ -29,6 +29,8 @@ I'm **Yoel**, a Staff Software Engineer focused on designing resilient, scalable
 <p>
   <img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/c++[learning]-000?style=flat-square&logo=cplusplus" />
   <img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=DEA584" />
   <img src="https://img.shields.io/badge/SQL-000?style=flat-square&logo=sqlite&logoColor=003B57" />
 </p>
