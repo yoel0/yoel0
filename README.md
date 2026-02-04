@@ -60,7 +60,7 @@ I'm **Yoel**, a Staff Software Engineer focused on designing resilient, scalable
   <img src="https://img.shields.io/badge/Jest-000?style=flat-square&logo=jest&logoColor=C21325" />
   <img src="https://img.shields.io/badge/Puppeteer-000?style=flat-square&logo=puppeteer&logoColor=40B5A4" />
   <img src="https://img.shields.io/badge/Sentry-000?style=flat-square&logo=sentry&logoColor=362D59" />
-  <img src="https://img.shields.io/badge/Insomnia-000?style=flat-square&logo=insomnia&logoColor=5849BE" />
+  <img src="https://img.shields.io/badge/Postman-000?style=flat-square&logo=postman" />
   <img src="https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/Jira-000?style=flat-square&logo=jira&logoColor=0052CC" />
   <img src="https://img.shields.io/badge/Notion-000?style=flat-square&logo=notion&logoColor=white" />
