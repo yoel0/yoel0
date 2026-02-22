@@ -12,14 +12,14 @@
 
 ### 👋 About Me
 
-I'm **Yoel**, a Staff Software Engineer focused on designing resilient, scalable systems that empower teams and solve real problems.
+I’m **Yoel**, a Staff Software Engineer building resilient, scalable platforms and enabling teams to ship high leverage systems.
 
-- 🧠 I care deeply about *clarity*, *simplicity*, and *building with intent*
-- 🤝 I'm a strong believer in **mentorship**, team enablement, and leading by example
-- 🌍 I thrive in ambiguity, turning complex, loosely defined problems into resilient, well architected systems
-- ✨ Currently focused on **reducing cognitive overhead, and aligning engineering decisions with business outcomes**
+- I optimize for **clarity**, **simplicity**, and **compounding leverage**
+- I lead through **mentorship**, **enablement**, and pragmatic standards
+- I turn ambiguity into execution: **architecture → delivery → measurable outcomes**
+- Current focus: **reducing cognitive overhead**, **platform thinking**, and **AI native product capabilities**
 
-> *“I was gratified to be able to answer promptly, and I did. I said I didn’t know.”* — Mark Twain
+> “I was gratified to be able to answer promptly, and I did. I said I didn’t know.” — Mark Twain
 
 ---
 
@@ -59,7 +59,6 @@ I'm **Yoel**, a Staff Software Engineer focused on designing resilient, scalable
 #### 🧪 Testing & Dev Tools
 <p>
   <img src="https://img.shields.io/badge/Jest-000?style=flat-square&logo=jest&logoColor=C21325" />
-  <img src="https://img.shields.io/badge/Puppeteer-000?style=flat-square&logo=puppeteer&logoColor=40B5A4" />
   <img src="https://img.shields.io/badge/Sentry-000?style=flat-square&logo=sentry&logoColor=362D59" />
   <img src="https://img.shields.io/badge/Postman-000?style=flat-square&logo=postman" />
   <img src="https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=F05032" />
