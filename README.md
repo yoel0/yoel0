@@ -23,9 +23,9 @@ I’m **Yoel**, a Staff Software Engineer building resilient, scalable platforms
 
 ---
 
-### 🛠️ Tech Toolbox
+### 🛠️ Core Stack
 
-#### 🧩 Languages
+#### Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6" />
@@ -35,7 +35,7 @@ I’m **Yoel**, a Staff Software Engineer building resilient, scalable platforms
   <img src="https://img.shields.io/badge/SQL-000?style=flat-square&logo=sqlite&logoColor=003B57" />
 </p>
 
-#### ⚙️ Frameworks & Runtime
+#### Frameworks & Runtime
 <p>
   <img src="https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js&logoColor=339933" />
   <img src="https://img.shields.io/badge/Deno-000?style=flat-square&logo=deno&logoColor=white" />
@@ -46,7 +46,7 @@ I’m **Yoel**, a Staff Software Engineer building resilient, scalable platforms
   <img src="https://img.shields.io/badge/Payload_CMS-000?style=flat-square&logo=payloadcms&logoColor=white" />
 </p>
 
-#### 🗄️ Databases & Infra
+#### Databases & Infra
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=4169E1" />
   <img src="https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=4479A1" />
@@ -56,7 +56,16 @@ I’m **Yoel**, a Staff Software Engineer building resilient, scalable platforms
   <img src="https://img.shields.io/badge/Amazon_Web_Services-000?style=flat-square&logo=amazon-aws&logoColor=FF9900" />
 </p>
 
-#### 🧪 Testing & Dev Tools
+#### AI/ML & Data
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-000?style=flat-square&logo=pytorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/HuggingFace-000?style=flat-square&logo=huggingface" />
+  <img src="https://img.shields.io/badge/MLflow-000?style=flat-square&logo=mlflow" />
+  <img src="https://img.shields.io/badge/Kubernetes-000?style=flat-square&logo=kubernetes" />
+</p>
+
+#### Testing & Dev Tools
 <p>
   <img src="https://img.shields.io/badge/Jest-000?style=flat-square&logo=jest&logoColor=C21325" />
   <img src="https://img.shields.io/badge/Sentry-000?style=flat-square&logo=sentry&logoColor=362D59" />
