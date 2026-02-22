@@ -39,6 +39,7 @@ I'm **Yoel**, a Staff Software Engineer focused on designing resilient, scalable
 <p>
   <img src="https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js&logoColor=339933" />
   <img src="https://img.shields.io/badge/Deno-000?style=flat-square&logo=deno&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Svelte-000?style=flat-square&logo=svelte&logoColor=FF3E00" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-000?style=flat-square&logo=tailwind-css&logoColor=38B2AC" />
